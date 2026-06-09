@@ -1,3 +1,8 @@
-This folder contains my solutions to various Codeforces problems.
+# Codeforces Solutions
 
-Thanks!!
+This repository contains my solutions to Codeforces problems.
+
+## Problems Solved
+- 71A - Way Too Long Words
+- 158A - Next Round
+- 231A - Team
