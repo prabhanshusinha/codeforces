@@ -8,3 +8,4 @@ This repository contains my solutions to Codeforces problems.
 - 231A - Team
 - 50A -  Domino piling
 - 263A - Beautiful Matrix
+- 112A - Petya and Strings
