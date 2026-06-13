@@ -9,3 +9,4 @@ This repository contains my solutions to Codeforces problems.
 - 50A -  Domino piling
 - 263A - Beautiful Matrix
 - 112A - Petya and Strings
+- 2218E - The 67th XOR problem
